@@ -18,7 +18,7 @@ Materials and resources for AI workshops, meetups, discussions, and trainings
 [HyperWrite AI Personal Assistant](https://www.hyperwriteai.com/personal-assistant) (Demo at 5:02 in [this video](https://youtu.be/HNc4lUh_Za4?si=uaSi1WS7YhwYCkYe))
 Has a lot of tasks (templates).
 
-[Video: (Goda Go) Most Insane & Free AI Tool: ALL AIs in One Chat!](https://youtu.be/cIjjksaG4Tg?si=DcZHqupFDeIev8SK) - and the [Dust.tt megatool](https://dust.tt] (log in with Github)
+[Video: (Goda Go) Most Insane & Free AI Tool: ALL AIs in One Chat!](https://youtu.be/cIjjksaG4Tg?si=DcZHqupFDeIev8SK) - and the [Dust.tt megatool](https://dust.tt) (log in with Github)
 
 ... many more yet to be added here ...
 
