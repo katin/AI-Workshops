@@ -20,7 +20,7 @@ Has a lot of tasks (templates).
 ## Some links to explore
 [Learn Prompting - Free course](https://learnprompting.org/)
 
-[Why your business needs a Generative AI Policy](https://www.aihr.com/blog/generative-ai-policy/) - [A prompt set from here on HuggingFace](https://huggingface.co/datasets/fka/awesome-chatgpt-prompts)
+[Why your business needs a Generative AI Policy](https://www.aihr.com/blog/generative-ai-policy/) 
 
 
 
@@ -29,7 +29,7 @@ Has a lot of tasks (templates).
 
 [Github topic listing for "chatgpt-prompts"](https://github.com/topics/chatgpt-prompts)
 
-[Github: Awesome ChatGPT Prompts (User F)](https://github.com/f/awesome-chatgpt-prompts)
+[Github: Awesome ChatGPT Prompts (User F)](https://github.com/f/awesome-chatgpt-prompts) - [A prompt set from here on HuggingFace](https://huggingface.co/datasets/fka/awesome-chatgpt-prompts)
 
 
 
