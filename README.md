@@ -16,13 +16,17 @@ Materials and resources for AI workshops, meetups, discussions, and trainings
 [HyperWrite AI Personal Assistant](https://www.hyperwriteai.com/personal-assistant) (Demo at 5:02 in [this video](https://youtu.be/HNc4lUh_Za4?si=uaSi1WS7YhwYCkYe))
 Has a lot of tasks (templates).
 
+... many more yet to be added here ...
+
 
 ## Some links to explore
 [Learn Prompting - Free course](https://learnprompting.org/)
 
 [Why your business needs a Generative AI Policy](https://www.aihr.com/blog/generative-ai-policy/) 
 
+[Two-Minute Papers Twitter account](https://twitter.com/twominutepapers) [Two-Minute Papers YouTube channel](https://www.youtube.com/channel/UCbfYPyITQ-7l4upoX8nvctg) - mostly focused on imagery and motion generation by AI
 
+[HuggingFace - like Github for AI Models](https://huggingface.co/) - Open Source models, datasets, and tools. Train your own AI!
 
 
 ## Prompt Libraries and Repositories
