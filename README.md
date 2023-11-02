@@ -19,6 +19,7 @@ Materials and resources for AI workshops, meetups, discussions, and trainings
 
 ## More Mindbending Concepts
 [Github (Python): Agent Actors control scripts system (shaman-ai)](https://github.com/shaman-ai/agent-actors)
+
 [Video: Build an Entire AI Agent Workforce | ChatDev and Google Brain "Society of Mind" | AGI User Interface](https://youtu.be/5Zj_zstLLP4?si=MJdUAvnJsOV_tGwd) | #social-media @ 6:38
 
 
