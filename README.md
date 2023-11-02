@@ -20,6 +20,8 @@ Has a lot of tasks (templates).
 
 
 ## Some links to explore
+[State of AI Report 2023](https://www.stateof.ai/)
+
 [Learn Prompting - Free course](https://learnprompting.org/)
 
 [Why your business needs a Generative AI Policy](https://www.aihr.com/blog/generative-ai-policy/) 
