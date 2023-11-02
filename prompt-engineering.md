@@ -2,7 +2,9 @@
 
 ## Methods
 
-### Synapse_COR prompt
+### Synapse_CoR prompt
+
+[Github repo of ProfSynapse / Synapse_CoR](https://github.com/ProfSynapse/Synapse_CoR)
 Demonstration video: [How to Turn ChatGPT into AutoGPT with 1 Prompt (Goda Go)](https://youtu.be/BL9x1SuNLRo?si=Zwvr-5gt_oCuQwOs)
 
 Paste into the ChatGPT "Custom Instructions" settings, into the "How would you like ChatGPT to respond?" field:
