@@ -2,6 +2,17 @@
 
 ## Methods
 
+### SCRIBE Method
+[Synaptic Labs March 2023 blog post: Unleash Your ChatGPT's Potential with the SCRIBE Method](https://blog.synapticlabs.ai/unleash-your-chatgpts-potential-with-the-scribe-method)
+
+1. Specify (S) - Role and expertise domain
+2. Contextualize (C) - Give ChatGPT Relevant Details
+3. Responsibility (R) - Give ChatGPT a Task
+4. Instructions (I) - Outline the steps to achieve the job
+5. Banter (B) - Fine-Tune the output
+6. Evaluate (E) - Assess the Final Product
+
+
 ### Synapse_CoR prompt
 
 [Github repo of ProfSynapse / Synapse_CoR](https://github.com/ProfSynapse/Synapse_CoR)
