@@ -20,6 +20,8 @@ Has a lot of tasks (templates).
 ## Some links to explore
 [Learn Prompting - Free course](https://learnprompting.org/)
 
+[Why your business needs a Generative AI Policy](https://www.aihr.com/blog/generative-ai-policy/)
+
 
 ## More Mindbending Concepts
 [Github (Python): Agent Actors control scripts system (shaman-ai)](https://github.com/shaman-ai/agent-actors)
