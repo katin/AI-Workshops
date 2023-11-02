@@ -1,5 +1,9 @@
 # AI Videos
 
+## Favorite YouTube Channels for AI Information and Learning
+* [Godo Go](https://www.youtube.com/@godago)
+
+
 | Date | Channel / Author | Video | Notes |
 |---|---|---|---|
 | 2023 | [Matt Wolfe](https://www.youtube.com/@mreflow) | [I Built AI MrBeast (Custom Bot Tutorial)](https://youtu.be/cutA4MKm9uY?si=d6II1Fr4I5uqn2Wf) | |
