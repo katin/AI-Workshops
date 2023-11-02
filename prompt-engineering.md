@@ -15,7 +15,7 @@
 
 ### Synapse_CoR prompt
 
-[Github repo of ProfSynapse / Synapse_CoR](https://github.com/ProfSynapse/Synapse_CoR)
+[Github repo of ProfSynapse / Synapse_CoR](https://github.com/ProfSynapse/Synapse_CoR) (Chain Of Reasoning)
 
 Demonstration video: [How to Turn ChatGPT into AutoGPT with 1 Prompt (Goda Go)](https://youtu.be/BL9x1SuNLRo?si=Zwvr-5gt_oCuQwOs)
 
