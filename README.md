@@ -12,6 +12,10 @@ Materials and resources for AI workshops, meetups, discussions, and trainings
 
 **Specific Task AI's** - Deepmind's [Dota 2 AI](https://openai.com/research?topics=dota-2), AlphaGo, AlphaZero (chess). [Blog post: AlphaZero: Shedding new light on chess, shogi, and Go](https://deepmind.google/discover/blog/alphazero-shedding-new-light-on-chess-shogi-and-go/)
 
+## AI Power Tools
+[HyperWrite AI Personal Assistant](https://www.hyperwriteai.com/personal-assistant) (Demo at 5:02 in [this video](https://youtu.be/HNc4lUh_Za4?si=uaSi1WS7YhwYCkYe))
+Has a lot of tasks (templates).
+
 
 ## Some links to explore
 [Learn Prompting - Free course](https://learnprompting.org/)
