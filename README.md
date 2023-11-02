@@ -26,7 +26,7 @@ Has a lot of tasks (templates).
 
 [Two-Minute Papers Twitter account](https://twitter.com/twominutepapers) [Two-Minute Papers YouTube channel](https://www.youtube.com/channel/UCbfYPyITQ-7l4upoX8nvctg) - mostly focused on imagery and motion generation by AI
 
-[HuggingFace - like Github for AI Models](https://huggingface.co/) - Open Source models, datasets, and tools. Train your own AI!
+[HuggingFace - like Github for AI Models](https://huggingface.co/) - Open Source models, datasets, and tools. Train your own AI! [More info in this blog post](https://zapier.com/blog/hugging-face/)
 
 
 ## Prompt Libraries and Repositories
